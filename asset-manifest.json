@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/medwing/static/css/main.f1524e1c.chunk.css",
-    "main.js": "/medwing/static/js/main.6ff308d2.chunk.js",
-    "main.js.map": "/medwing/static/js/main.6ff308d2.chunk.js.map",
-    "runtime~main.js": "/medwing/static/js/runtime~main.ff31f2cd.js",
-    "runtime~main.js.map": "/medwing/static/js/runtime~main.ff31f2cd.js.map",
-    "static/js/2.34577051.chunk.js": "/medwing/static/js/2.34577051.chunk.js",
-    "static/js/2.34577051.chunk.js.map": "/medwing/static/js/2.34577051.chunk.js.map",
-    "index.html": "/medwing/index.html",
-    "precache-manifest.79ba69e4a9a1855ecb68d39b21dbc173.js": "/medwing/precache-manifest.79ba69e4a9a1855ecb68d39b21dbc173.js",
-    "service-worker.js": "/medwing/service-worker.js",
-    "static/css/main.f1524e1c.chunk.css.map": "/medwing/static/css/main.f1524e1c.chunk.css.map",
-    "static/media/logo.svg": "/medwing/static/media/logo.5d5d9eef.svg"
+    "main.css": "/demo/static/css/main.f1524e1c.chunk.css",
+    "main.js": "/demo/static/js/main.b19d8a53.chunk.js",
+    "main.js.map": "/demo/static/js/main.b19d8a53.chunk.js.map",
+    "runtime~main.js": "/demo/static/js/runtime~main.329099d0.js",
+    "runtime~main.js.map": "/demo/static/js/runtime~main.329099d0.js.map",
+    "static/js/2.34577051.chunk.js": "/demo/static/js/2.34577051.chunk.js",
+    "static/js/2.34577051.chunk.js.map": "/demo/static/js/2.34577051.chunk.js.map",
+    "index.html": "/demo/index.html",
+    "precache-manifest.5200de422d37572157271ad5acec18ed.js": "/demo/precache-manifest.5200de422d37572157271ad5acec18ed.js",
+    "service-worker.js": "/demo/service-worker.js",
+    "static/css/main.f1524e1c.chunk.css.map": "/demo/static/css/main.f1524e1c.chunk.css.map",
+    "static/media/logo.svg": "/demo/static/media/logo.5d5d9eef.svg"
   }
 }
