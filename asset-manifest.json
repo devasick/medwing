@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medwing/static/css/main.ad073390.chunk.css",
+    "main.js": "/medwing/static/js/main.a44d4dba.chunk.js",
+    "main.js.map": "/medwing/static/js/main.a44d4dba.chunk.js.map",
+    "runtime~main.js": "/medwing/static/js/runtime~main.7c35e480.js",
+    "runtime~main.js.map": "/medwing/static/js/runtime~main.7c35e480.js.map",
+    "static/js/2.e717db85.chunk.js": "/medwing/static/js/2.e717db85.chunk.js",
+    "static/js/2.e717db85.chunk.js.map": "/medwing/static/js/2.e717db85.chunk.js.map",
+    "index.html": "/medwing/index.html",
+    "precache-manifest.f53151ec909b8a13d75e6edad99b2350.js": "/medwing/precache-manifest.f53151ec909b8a13d75e6edad99b2350.js",
+    "service-worker.js": "/medwing/service-worker.js",
+    "static/css/main.ad073390.chunk.css.map": "/medwing/static/css/main.ad073390.chunk.css.map"
+  }
+}
