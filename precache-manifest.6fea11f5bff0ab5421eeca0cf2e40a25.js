@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b93fb7e019b6cd9366b9b220c544f4d",
+    "revision": "5177bf85544bfa59ebfadc55ed49009c",
     "url": "/medwing/index.html"
   },
   {
-    "revision": "76940577a41e59e5a8e1",
+    "revision": "559f25c928a51d9cc708",
     "url": "/medwing/static/css/main.ad073390.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/medwing/static/js/2.e717db85.chunk.js"
   },
   {
-    "revision": "76940577a41e59e5a8e1",
-    "url": "/medwing/static/js/main.ce06a85a.chunk.js"
+    "revision": "559f25c928a51d9cc708",
+    "url": "/medwing/static/js/main.08397c38.chunk.js"
   },
   {
     "revision": "4c68c7fd6da21300f538",

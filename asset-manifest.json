@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/medwing/static/css/main.ad073390.chunk.css",
-    "main.js": "/medwing/static/js/main.ce06a85a.chunk.js",
-    "main.js.map": "/medwing/static/js/main.ce06a85a.chunk.js.map",
+    "main.js": "/medwing/static/js/main.08397c38.chunk.js",
+    "main.js.map": "/medwing/static/js/main.08397c38.chunk.js.map",
     "runtime~main.js": "/medwing/static/js/runtime~main.7c35e480.js",
     "runtime~main.js.map": "/medwing/static/js/runtime~main.7c35e480.js.map",
     "static/js/2.e717db85.chunk.js": "/medwing/static/js/2.e717db85.chunk.js",
     "static/js/2.e717db85.chunk.js.map": "/medwing/static/js/2.e717db85.chunk.js.map",
     "index.html": "/medwing/index.html",
-    "precache-manifest.5d694a4643c44748c4867431fd5d8de1.js": "/medwing/precache-manifest.5d694a4643c44748c4867431fd5d8de1.js",
+    "precache-manifest.6fea11f5bff0ab5421eeca0cf2e40a25.js": "/medwing/precache-manifest.6fea11f5bff0ab5421eeca0cf2e40a25.js",
     "service-worker.js": "/medwing/service-worker.js",
     "static/css/main.ad073390.chunk.css.map": "/medwing/static/css/main.ad073390.chunk.css.map"
   }

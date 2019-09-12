@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/medwing/precache-manifest.5d694a4643c44748c4867431fd5d8de1.js"
+  "/medwing/precache-manifest.6fea11f5bff0ab5421eeca0cf2e40a25.js"
 );
 
 self.addEventListener('message', (event) => {
